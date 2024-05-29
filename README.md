@@ -1,6 +1,6 @@
-#harpoonium
+# harpoonium
 
-Access your browser's tabs with simple shortcuts you can define
+Access your browser's tabs with simple Vim-like shortcuts you can define
 
 
 ## TODO:

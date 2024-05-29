@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "harpoonium",
-  "description": "TODO",
-  "version": "1.0",
+  "description": "Access your pinned tabs with a single keypress",
+  "version": "0.1",
   "action": {
     "default_popup": "popup/popup.html",
     "default_icon": "images/icon-128x128.png"
